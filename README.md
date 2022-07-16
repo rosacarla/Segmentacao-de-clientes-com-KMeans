@@ -1,7 +1,7 @@
 # :department_store: Segmentação de Clientes com KMeans
 <p align="justify">  
 
-Projeto desenvolve modelo de clusterização de uma base de clientes com o algoritmo KMeans. São apresentadas informações sobre a frequência de compra de cada cliente, valor de ticket médio e agrupamento considerando a frequência por valor das compras.  
+Projeto desenvolve modelo de clusterização de uma base de clientes com o algoritmo KMeans. Foram obtidas informações sobre: frequência de compra de cada cliente, valor de ticket médio e agrupamento considerando a frequência por valor das compras.  
 
 Dataset: vendas-por-fatura.csv, disponível em: https://drive.google.com/file/d/14T8yNDk_XNsKATT3bP7f2RrMS1ydZWFg/view.  
 
